@@ -3,5 +3,9 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rozsazoltan" alt="Background">
+</p>
+
+<p align="center">
   <img width="500" style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=rozsazoltan&date_format=%5BY%20%5DM%20j&background=F7FAFC&border=A5A5A5AF&stroke=A5A5A5AF&dates=A5A5A5AF" alt="GitHub Streak">
 </p>

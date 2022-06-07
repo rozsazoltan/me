@@ -2,14 +2,14 @@
   <img style="width: 100%;" src="https://user-images.githubusercontent.com/67325669/163438572-2fb5be12-fb1e-406a-b7fb-925938e0c26b.png" alt="Background">
 </p>
 
-<p align="center">
-  <img width="500" style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=rozsazoltan&date_format=%5BY%20%5DM%20j&background=F7FAFC&border=A5A5A5AF&stroke=A5A5A5AF&dates=A5A5A5AF" alt="GitHub Streak">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/rozsazoltan_dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rozsazoltan_dev" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="rozsazoltan_dev" height="30" width="40" />
+  </a>
+  <strong>or</strong>
+  <a href="https://www.buymeacoffee.com/rozsazoltan" target="_blank">
+    <img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
   </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=rozsazoltan" alt="Profile views">

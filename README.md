@@ -4,7 +4,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/rozsazoltan_dev" target="blank">
+  <a href="https://twitter.com/rozsazoltan_dev" target="_blank">
     <strong style="color: #1da1f2;">Follow me on </strong> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="rozsazoltan_dev" height="30" width="40" />
   </a>
   <strong>or</strong>

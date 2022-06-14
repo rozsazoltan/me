@@ -2,8 +2,7 @@
   <img style="width: 100%;" src="https://user-images.githubusercontent.com/67325669/163438572-2fb5be12-fb1e-406a-b7fb-925938e0c26b.png" alt="Background">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/rozsazoltan_dev" target="_blank">
     <strong style="color: #1da1f2;">Follow me on </strong> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="rozsazoltan_dev" height="30" width="40" />
   </a>
@@ -17,8 +16,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<br><br>
+<p align="center">
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
   </a>
@@ -35,6 +34,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-<br><br><br><br>
-<img src="https://komarev.com/ghpvc/?username=rozsazoltan" alt="Profile views">

@@ -11,4 +11,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 __________________________________________________________
   
 **LIST OF ALLOWED PROJECTS:**
-    Github Gist files
+    [Github Gist files](https://gist.github.com/rozsazoltan), 
+    [Example Laravel BREAD](https://github.com/rozsazoltan/example-laravel-bread)

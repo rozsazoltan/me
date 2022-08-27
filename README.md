@@ -10,7 +10,13 @@
 
 <br><br>
 <p align="center">
-  <strong># Web</strong> (Any) <strong># HybridApp</strong> (Android, iOS)
+  <sub>Hybrid Applications</sub>
+</p>
+<p align="center">
+  <strong># Web</strong> (Any) <strong># Desktop</strong> (Windows, Linux, macOS) <strong># Mobile</strong> (Android, iOS)
+</p>
+<p align="center">
+  <sub>Used Technology</sub>
 </p>
 <p align="center">
   <strong>Backend</strong>

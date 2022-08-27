@@ -35,6 +35,9 @@
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     # VueJS
   </a>
+  <a href="https://electronjs.org" target="_blank" rel="noreferrer">
+    # Electron
+  </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
     # Ionic
   </a>

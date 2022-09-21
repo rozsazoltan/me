@@ -52,11 +52,18 @@
   </a>
 </p>
 
-<hr>
+<br><br>
 
 <p align="center">
   <sub>Public Packages</sub>
 </p>
 <p align="center">
   <a href="https://www.npmjs.com/package/@datarose/scrollreveal"><strong>@datarose/scrollreveal</strong></a>
+</p>
+
+<p align="center">
+  <sub>Private Packages</sub>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@datarose/javascript-helpers"><strong>@datarose/javascript-helpers</strong></a>
 </p>

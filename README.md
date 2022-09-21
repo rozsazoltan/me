@@ -51,3 +51,12 @@
     # TailwindCSS
   </a>
 </p>
+
+<hr>
+
+<p align="center">
+  <sub>Public Packages</sub>
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@datarose/scrollreveal"><strong>@datarose/scrollreveal</strong></a>
+</p>

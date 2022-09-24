@@ -65,5 +65,5 @@
   <sub>Private Packages</sub>
 </p>
 <p align="center">
-  <a href="https://www.npmjs.com/package/@datarose/javascript-helpers"><strong>@datarose/javascript-helpers</strong></a>
+  <a href="https://www.npmjs.com/package/@datarose/iconpack"><strong>@datarose/iconpack</strong></a> <a href="https://www.npmjs.com/package/@datarose/javascript-helpers"><strong>@datarose/javascript-helpers</strong></a>
 </p>

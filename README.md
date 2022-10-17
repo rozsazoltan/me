@@ -67,3 +67,15 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@datarose/iconpack"><strong>@datarose/iconpack</strong></a> <a href="https://www.npmjs.com/package/@datarose/javascript-helpers"><strong>@datarose/javascript-helpers</strong></a> <a href="https://www.npmjs.com/package/@datarose/colorpicker"><strong>@datarose/colorpicker</strong></a> <a href="https://www.npmjs.com/package/@datarose/business-card-generator"><strong>@datarose/business-card-generator</strong></a>
 </p>
+
+<p align="center">
+  <sub>Preferred Package Managers</sub>
+</p>
+<p align="center">
+  <a href="https://getcomposer.org" target="_blank" rel="noreferrer">
+    # composer
+  </a>
+  <a href="https://pnpm.io" target="_blank" rel="noreferrer">
+    # pnpm
+  </a>
+</p>

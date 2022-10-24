@@ -58,7 +58,7 @@
   <sub>Public Packages</sub>
 </p>
 <p align="center">
-  <a href="https://gists.github.com/rozsazoltan"><strong>@datarose/gists</strong></a> <a href="https://www.npmjs.com/package/@datarose/scrollreveal"><strong>@datarose/scrollreveal</strong></a> <a href="https://packagist.org/packages/datarose/laravel-macros"><strong>@datarose/laravel-macros</strong> <a href="https://packagist.org/packages/datarose/laravel-ts-models"><strong>@datarose/laravel-ts-models</strong></a>
+  <a href="https://gists.github.com/rozsazoltan"><strong>@datarose/gists</strong></a> <a href="https://www.npmjs.com/package/@datarose/scrollreveal"><strong>@datarose/scrollreveal</strong></a> <a href="https://packagist.org/packages/datarose/illuminate-macros"><strong>@datarose/illuminate-macros</strong> <a href="https://packagist.org/packages/datarose/laravel-ts-models"><strong>@datarose/laravel-ts-models</strong></a>
 </p>
 
 <p align="center">

@@ -51,6 +51,15 @@
     # TailwindCSS
   </a>
 </p>
+<p align="center">
+  <strong>Testing</strong>
+  <a href="https://phpunit.de" target="_blank" rel="noreferrer">
+    # PHPUnit
+  </a>
+  <a href="https://vitest.dev" target="_blank" rel="noreferrer">
+    # Vitest
+  </a>
+</p>
 
 <br><br>
 

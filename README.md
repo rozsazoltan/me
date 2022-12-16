@@ -4,20 +4,21 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/rozsazoltan_dev" target="_blank">
-    <strong style="color: #1da1f2;">Follow me on </strong> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" alt="rozsazoltan_dev" height="30" width="40" />
-  </a>
+  Hybrid Applications
+  <br>
+  _____________________
+</p>
+<p align="center">
+  <strong># Web</strong> <sub>(Any)</sub> <strong># Desktop</strong> <sub>(Windows, Linux, macOS)</sub> <strong># Mobile</strong> <sub>(Android, iOS)</sub>
+  <br>
+  <sub><strong># Browser Extension</strong> (Chrome, Edge, Firefox) <strong># Widget</strong> (Any)</sub>
 </p>
 
 <br><br>
 <p align="center">
-  <sub>Hybrid Applications</sub>
-</p>
-<p align="center">
-  <strong># Web</strong> (Any) <strong># Desktop</strong> (Windows, Linux, macOS) <strong># Mobile</strong> (Android, iOS)
-</p>
-<p align="center">
-  <sub>Used Technology</sub>
+  Used Technology
+  <br>
+  _____________________
 </p>
 <p align="center">
   <strong>Backend</strong>
@@ -63,7 +64,6 @@
 </p>
 
 <br><br>
-
 <p align="center">
   <sub>Public Packages</sub>
 </p>

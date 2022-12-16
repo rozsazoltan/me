@@ -72,7 +72,10 @@
 </p>
 <p align="center">
   <a href="https://gists.github.com/rozsazoltan"><strong>@datarose/gists</strong></a>
+  <br>
+  <a href="https://www.npmjs.com/package/@datarose/css-class-encryption"><strong>@datarose/css-class-encryption</strong> </a>
   <a href="https://www.npmjs.com/package/@datarose/scrollreveal"><strong>@datarose/scrollreveal</strong></a>
+  <br>
   <a href="https://packagist.org/packages/datarose/illuminate-macros"><strong>@datarose/illuminate-macros</strong></a>
   <a href="https://packagist.org/packages/datarose/laravel-ts-models"><strong>@datarose/laravel-ts-models</strong></a>
 </p>
@@ -83,6 +86,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/@datarose/iconpack"><strong>@datarose/iconpack</strong></a>
   <a href="https://www.npmjs.com/package/@datarose/javascript-helpers"><strong>@datarose/javascript-helpers</strong></a>
+  <br>
   <a href="https://www.npmjs.com/package/@datarose/colorpicker"><strong>@datarose/colorpicker</strong></a>
   <a href="https://www.npmjs.com/package/@datarose/business-card-generator"><strong>@datarose/business-card-generator</strong></a>
 </p>

@@ -89,7 +89,7 @@
 
 <br><br>
 <p align="center">
-  <sub><strong>I develop applications with which I can make the work of others easier.<br>I optimize companies' production. I make work processes more transparent by my softwares.</strong></sub>
+  <sub><strong>I develop applications which I can make the work of others easier.<br>I optimize companies' production. I make work processes more transparent by my softwares.</strong></sub>
 </p>
 
 <br><br>

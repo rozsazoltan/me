@@ -93,7 +93,7 @@
 
 <br><br>
 <p align="center">
-  <sub><strong>I develop applications which I can make the work of others easier.<br>I optimize companies' production. I make work processes more transparent by my softwares.</strong></sub>
+  <sub><strong>I develop applications that make the work of others easier and optimize companies' production.<br>My software helps make work processes more transparent.</strong></sub>
 </p>
 
 <br><br>
@@ -101,12 +101,12 @@
   <sub><strong>#</strong> Private Projects</sub>
 </p>
 <p align="center">
-  <a href="https://github.com/rozsazoltan"><strong>Easy Multi-Website manager</strong></a>
-  <br><sub>(can build and manage more similar website in short time on a site)</sub>
+  <a href="https://github.com/rozsazoltan"><strong>𝗟𝗼𝘁𝗦𝗶𝘁𝗲</strong></a>
+  <br><sub>(can build and manage multiple similar websites quickly on one site)</sub>
   <br><br>
-  <a href="https://github.com/rozsazoltan"><strong>Database Manager</strong></a>
-  <br><sub>(can use without SQL skills and extra knowledge)</sub>
+  <a href="https://github.com/rozsazoltan"><strong>𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿</strong></a>
+  <br><sub>(can be used without SQL skills and additional knowledge)</sub>
   <br><br>
-  <a href="https://github.com/rozsazoltan"><strong>Precision Husbandry Software</strong></a>
-  <br><sub>(Any Animals, Any Farms, Any Everything in Husbandry in a site)</sub>
+  <a href="https://github.com/rozsazoltan"><strong>𝗣𝗿𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗟𝗶𝘃𝗲𝘀𝘁𝗼𝗰𝗸 𝗮𝗻𝗱 𝗔𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲</strong></a>
+  <br><sub>(for managing animals, farms, and everything related to husbandry on one site)</sub>
 </p>

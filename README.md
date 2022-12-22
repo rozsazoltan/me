@@ -31,6 +31,8 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"># MySQL</a>
   <a href="https://php.net" target="_blank" rel="noreferrer"># PHP</a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"># Laravel</a>
+  <a href="https://java.com" target="_blank" rel="noreferrer"># Java</a> (Android)
+  <a href="https://swift.org/" target="_blank" rel="noreferrer"># Switft</a> (iOS)
 </p>
 <p align="center">
   <strong>Frontend</strong><br>
@@ -38,7 +40,7 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"># TypeScript</a>
   <a href="https://vuejs.org" target="_blank" rel="noreferrer"># VueJS</a>
   <a href="https://electronjs.org" target="_blank" rel="noreferrer"># Electron</a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"># Ionic</a>
+  <a href="https://nativescript.org" target="_blank" rel="noreferrer"># NativeScript</a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"># TailwindCSS</a>
 </p>
 <p align="center">

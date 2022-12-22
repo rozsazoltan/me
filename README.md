@@ -31,8 +31,8 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"># MySQL</a>
   <a href="https://php.net" target="_blank" rel="noreferrer"># PHP</a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer"># Laravel</a>
-  <a href="https://java.com" target="_blank" rel="noreferrer"># Java</a> (Android)
-  <a href="https://swift.org/" target="_blank" rel="noreferrer"># Switft</a> (iOS)
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"># Kotlin</a>
+  <a href="https://swift.org/" target="_blank" rel="noreferrer"># Switft</a>
 </p>
 <p align="center">
   <strong>Frontend</strong><br>

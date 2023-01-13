@@ -104,11 +104,22 @@
 </p>
 <p align="center">
   <a href="https://github.com/rozsazoltan"><strong>𝗟𝗼𝘁𝗦𝗶𝘁𝗲</strong></a>
+  <br><sub># Web</sub>
   <br><sub>(can build and manage multiple similar websites quickly on one site)</sub>
   <br><br>
   <a href="https://github.com/rozsazoltan"><strong>𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿</strong></a>
+  <br><sub># Web</sub>
   <br><sub>(can be used without SQL skills and additional knowledge)</sub>
   <br><br>
   <a href="https://github.com/rozsazoltan"><strong>𝗣𝗿𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗟𝗶𝘃𝗲𝘀𝘁𝗼𝗰𝗸 𝗮𝗻𝗱 𝗔𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲</strong></a>
+  <br><sub># Web (for full controlling) # Mobile (for fast check and communication)</sub>
   <br><sub>(for managing animals, farms, and everything related to husbandry on one site)</sub>
+  <br><br>
+  <a href="https://github.com/rozsazoltan"><strong>𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</strong></a>
+  <br><sub># Web (for creators) # Mobile (for learning)</sub>
+  <br><sub>(make learning simple, make it a game)</sub>
+  <br><br>
+  <a href="https://github.com/rozsazoltan"><strong>𝗕𝗼𝗮𝗿𝗱 𝗚𝗮𝗺𝗲 𝗕𝘂𝗶𝗹𝗱𝗲𝗿</strong></a>
+  <br><sub># Web (for creators) # Mobile (for players)</sub>
+  <br><sub>(make learning simple, make it a game)</sub>
 </p>

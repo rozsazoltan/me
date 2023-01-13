@@ -121,5 +121,5 @@
   <br><br>
   <a href="https://github.com/rozsazoltan"><strong>𝗕𝗼𝗮𝗿𝗱 𝗚𝗮𝗺𝗲 𝗕𝘂𝗶𝗹𝗱𝗲𝗿</strong></a>
   <br><sub># Web (for creators) # Mobile (for players)</sub>
-  <br><sub>(make learning simple, make it a game)</sub>
+  <br><sub>(create your game, your rules, share and play it)</sub>
 </p>

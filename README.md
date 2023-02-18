@@ -103,11 +103,7 @@
   <sub><strong>#</strong> Private Projects</sub>
 </p>
 <p align="center">
-  <a href="https://github.com/rozsazoltan"><strong>𝗟𝗼𝘁𝗦𝗶𝘁𝗲</strong></a>
-  <br><sub># Web</sub>
-  <br><sub>(can build and manage multiple similar websites quickly on one site)</sub>
-  <br><br>
-  <a href="https://github.com/rozsazoltan"><strong>𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿</strong></a>
+  <a href="https://github.com/rozsazoltan"><strong>𝗗𝗮𝘁𝗮𝗠𝗮𝗻𝗮𝗴𝗲𝗿</strong> (Queries, Charts, Reports)</a>
   <br><sub># Web</sub>
   <br><sub>(can be used without SQL skills and additional knowledge)</sub>
   <br><br>

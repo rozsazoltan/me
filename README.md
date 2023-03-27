@@ -45,8 +45,8 @@
 </p>
 <p align="center">
   <strong>Testing</strong><br>
-  <a href="https://phpunit.de" target="_blank" rel="noreferrer">
-    # PHPUnit
+  <a href="https://pestphp.com" target="_blank" rel="noreferrer">
+    # PestPHP
   </a>
   <a href="https://vitest.dev" target="_blank" rel="noreferrer">
     # Vitest

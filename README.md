@@ -109,7 +109,7 @@
   <br><br>
   <a href="https://github.com/rozsazoltan"><strong>𝗔𝗴𝗿𝗶𝗰𝘂𝗹𝘁𝘂𝗿𝗮𝗹 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗦𝘆𝘀𝘁𝗲𝗺</strong></a>
   <br><sub># Web (for full controlling) # Mobile (for fast check and communication)</sub>
-  <br><sub>(for managing animals, farms, and everything related to husbandry on one site)</sub>
+  <br><sub>(our goal is to bring together the data of breeding, production, inventory management, feed management, and animal healthcare treatments)</sub>
   <br><br>
   <a href="https://github.com/rozsazoltan"><strong>𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴</strong></a>
   <br><sub># Web (for creators) # Mobile (for learning)</sub>

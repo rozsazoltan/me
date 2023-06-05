@@ -25,3 +25,9 @@
     <strong># SEO</strong>
   </sub>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/15167500/rozsazoltan"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/15167500?color=%23f48024&label=stackoverflow&logo=stackoverflow"></a>
+</p>
